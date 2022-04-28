@@ -2,14 +2,13 @@
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##### __A simple git demo__
+#### __A simple git demo__
 
-##### A simple repo deployed to demonstrate branches, push and pull requests, teams and development pipelines
+#### This is a simple repo deployed to demonstrate branches, push and pull requests, teams and development pipelines
 
-##### This demo is temporarily deployed to https://git-demo.keylogic.app
+#### This demo is temporarily deployed to https://git-demo.keylogic.app
 
 #### For any additional assistance after the demo send an e-mail to Harry McKinney via [harry.mckinney@KeyLogic.com](mailto:harry.mckinney@KeyLogic.com).
